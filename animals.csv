@@ -1,0 +1,101 @@
+animal_type;days_shelter;outcome_reason
+dog;  4;Return to Owner
+bird; 72;Return to Owner
+cat;  2;Adoption
+rat; 88;Adoption
+bird; 30;Adoption
+cat;  1;Adoption
+bird; 87;Transfer
+bird; 75;Transfer
+cat;  0;Adoption
+rat; 34;Adoption
+dog; 15;Transfer
+dog; 17;Return to Owner
+cat;  0;Adoption
+cat;  6;Adoption
+dog;  3;Adoption
+rat; 48;Adoption
+bird; 34;Adoption
+rat; 58;Adoption
+cat;  1;Adoption
+cat; 19;Transfer
+bird; 12;Transfer
+cat;  3;Transfer
+dog; 15;Return to Owner
+rat; 31;Adoption
+rat; 79;Transfer
+dog; 18;Adoption
+dog;  1;Transfer
+rat; 48;Transfer
+dog; 13;Transfer
+bird;108;Transfer
+cat; 24;Return to Owner
+cat;  0;Adoption
+bird; 28;Transfer
+dog; 36;Transfer
+bird;106;Adoption
+dog;  0;Transfer
+cat; 22;Transfer
+bird;138;Adoption
+cat;  3;Adoption
+bird; 55;Adoption
+bird;105;Transfer
+dog; 23;Adoption
+bird;166;Transfer
+dog;  5;Return to Owner
+bird; 68;Adoption
+rat;109;Adoption
+cat;  4;Return to Owner
+rat; 51;Transfer
+dog; 15;Adoption
+rat; 34;Adoption
+cat; 14;Adoption
+rat;  4;Transfer
+rat;  7;Transfer
+bird;  6;Adoption
+cat;  3;Transfer
+dog; 10;Transfer
+bird; 22;Adoption
+rat; 66;Adoption
+rat; 42;Adoption
+dog; 15;Return to Owner
+rat; 91;Return to Owner
+cat; 19;Return to Owner
+bird;141;Transfer
+bird; 14;Return to Owner
+rat; 65;Adoption
+rat; 49;Return to Owner
+cat;  3;Transfer
+dog;  5;Transfer
+rat; 23;Adoption
+bird; 32;Transfer
+cat;  1;Transfer
+bird; 12;Return to Owner
+bird; 12;Adoption
+cat;  5;Return to Owner
+rat; 65;Adoption
+dog; 35;Adoption
+cat; 10;Transfer
+rat; 39;Transfer
+dog; 15;Transfer
+dog; 20;Adoption
+cat;  2;Adoption
+bird; 56;Transfer
+rat; 15;Transfer
+dog; 26;Adoption
+bird; 49;Adoption
+dog; 16;Return to Owner
+rat; 28;Return to Owner
+cat; 20;Adoption
+dog;  6;Return to Owner
+dog; 17;Adoption
+bird; 36;Return to Owner
+cat; 16;Transfer
+rat; 66;Transfer
+dog; 30;Return to Owner
+dog;  2;Adoption
+bird;187;Adoption
+cat; 14;Transfer
+rat; 85;Adoption
+cat;  5;Adoption
+rat; 14;Transfer
